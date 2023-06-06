@@ -8,4 +8,4 @@
   1. [project 1](https://example.com)
 
 
-## All projects are covered under the XXX licence, which allows for noncommercial use and redistribution (when creator's name is credited in the redistribution)
+## All projects are covered under the XYZ licence, which allows for noncommercial use and redistribution (when creator's name is credited in the redistribution)
